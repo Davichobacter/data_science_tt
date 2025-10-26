@@ -34,3 +34,51 @@
   </list> </ul>
   <ul>Calcula las ventas totales (la suma de las ventas en todas las regiones) para cada juego y coloca estos valores en una columna separada.</ul>
 </list>
+
+<h3>Paso 3. Analiza los datos</h3>
+<list>
+  <ul>Mira cuántos juegos fueron lanzados en diferentes años. ¿Son significativos los datos de cada período?</ul>
+  <ul>Observa cómo varían las ventas de una plataforma a otra. Elige las plataformas con las mayores ventas totales y construye una distribución basada en los datos de cada año. Busca las plataformas que solían ser populares pero que ahora no tienen ventas. ¿Cuánto tardan generalmente las nuevas plataformas en aparecer y las antiguas en desaparecer?</ul>
+  <ul>Determina para qué período debes tomar datos. Para hacerlo mira tus respuestas a las preguntas anteriores. Los datos deberían permitirte construir un modelo para 2017.</ul>
+  <ul>Trabaja solo con los datos que consideras relevantes. Ignora los datos de años anteriores.</ul>
+  <ul>¿Qué plataformas son líderes en ventas? ¿Cuáles crecen y cuáles se reducen? Elige varias plataformas potencialmente rentables.</ul>
+  <ul>Crea un diagrama de caja para las ventas globales de todos los juegos, desglosados por plataforma. ¿Son significativas las diferencias en las ventas? ¿Qué sucede con las ventas promedio en varias plataformas? Describe tus hallazgos.</ul>
+  <ul>Mira cómo las reseñas de usuarios y profesionales afectan las ventas de una plataforma popular (tu elección). Crea un gráfico de dispersión y calcula la correlación entre las reseñas y las ventas. Saca conclusiones.</ul>
+  <ul>Teniendo en cuenta tus conclusiones compara las ventas de los mismos juegos en otras plataformas.</ul>
+  <ul>Echa un vistazo a la distribución general de los juegos por género. ¿Qué se puede decir de los géneros más rentables? ¿Puedes generalizar acerca de los géneros con ventas altas y bajas?</ul>
+</list>
+
+<h3>Paso 4. Crea un perfil de usuario para cada región</h3>
+<p>Para cada región (NA, UE, JP) determina:</p>
+<list>
+  <ul>Las cinco plataformas principales. Describe las variaciones en sus cuotas de mercado de una región a otra.</ul> 
+  <ul>Los cinco géneros principales. Explica la diferencia.</ul>
+  <ul>Si las clasificaciones de ESRB afectan a las ventas en regiones individuales.</ul>
+</list>
+
+<h3>Paso 5. Prueba las siguientes hipótesis:</h3>
+<p>— Las calificaciones promedio de los usuarios para las plataformas Xbox One y PC son las mismas.</p>
+<p>— Las calificaciones promedio de los usuarios para los géneros de Acción y Deportes son diferentes.</p>
+<p>Establece tu mismo el valor de umbral alfa.</p>
+<p>Explica:</p>
+<list>
+  <ul>— Cómo formulaste las hipótesis nula y alternativa.</ul>
+  <ul>— Qué criterio utilizaste para probar las hipótesis y por qué.</ul>
+</list>
+
+<h3>Paso 6. Escribe una conclusión general</h3>
+<p>Formato: Completa la tarea en Jupyter Notebook. Inserta el código de programación en las celdas code y las explicaciones de texto en las celdas markdown. Aplica formato y agrega encabezados.</p>
+
+<h3>Descripción de datos</h3>
+- Name (Nombre)
+- Platform (Plataforma)
+- Year_of_Release (Año de lanzamiento)
+- Genre (Género) 
+- NA_sales (ventas en Norteamérica en millones de dólares estadounidenses) 
+- EU_sales (ventas en Europa en millones de dólares estadounidenses) 
+- JP_sales (ventas en Japón en millones de dólares estadounidenses) 
+- Other_sales (ventas en otros países en millones de dólares estadounidenses) 
+- Critic_Score (máximo de 100) 
+- User_Score (máximo de 10) 
+- Rating (ESRB)
+Es posible que los datos de 2016 estén incompletos.
