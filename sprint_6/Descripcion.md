@@ -21,3 +21,16 @@
 <h3>Paso 1. Abre el archivo de datos y estudia la información general</h3>
 <p>Ruta de archivo:</p>
 <p><italic>/datasets/games.csv </italic>. Descarga el dataset</p>
+
+<h3>Paso 2. Prepara los datos</h3>
+<list>
+  <ul>Reemplaza los nombres de las columnas (ponlos en minúsculas).</ul>
+  <ul>Convierte los datos en los tipos necesarios.</ul>
+  <ul>Describe las columnas en las que los tipos de datos han sido cambiados y explica por qué.</ul>
+  <ul>Si es necesario, elige la manera de tratar los valores ausentes:<list>
+    <ul>Explica por qué rellenaste los valores ausentes como lo hiciste o por qué decidiste dejarlos en blanco.</ul>
+    <ul>¿Por qué crees que los valores están ausentes? Brinda explicaciones posibles.</ul>
+    <ul>Presta atención a la abreviatura TBD: significa "to be determined" (a determinar). Especifica cómo piensas manejar estos casos.</ul>
+  </list> </ul>
+  <ul>Calcula las ventas totales (la suma de las ventas en todas las regiones) para cada juego y coloca estos valores en una columna separada.</ul>
+</list>
