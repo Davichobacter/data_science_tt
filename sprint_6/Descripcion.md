@@ -86,3 +86,21 @@
 
 Es posible que los datos de 2016 estén incompletos.
 
+<h3>Descripción de datos</h3>
+<p>Lee atentamente estos criterios de evaluación de proyectos antes de empezar a trabajar.</p>
+<p>Esto es lo que buscan los revisores de proyecto cuando evalúan tu proyecto:</p>
+<list>
+  <ul>¿Cómo describirías los problemas identificados en los datos?</ul>
+  <ul>¿Cómo se prepara un dataset para el análisis?</ul>
+  <ul>¿Cómo creas gráficos de distribución y cómo los explicas?</ul>
+  <ul>¿Cómo calculas la desviación estándar y varianza?</ul>
+  <ul>¿Formulas las hipótesis alternativas y nulas?</ul>
+  <ul>¿Qué métodos aplicas a la hora de probarlos?</ul>
+  <ul>¿Explicas los resultados de tus pruebas de hipótesis?</ul>
+  <ul>¿Sigues la estructura del proyecto y mantienes tu código ordenado y comprensible?</ul>
+  <ul>¿A qué conclusiones llegas?</ul>
+  <ul>¿Has dejado comentarios claros y relevantes en cada paso?</ul>
+</list>
+<p>Todo lo que necesitas para completar este proyecto se encuentra en las hojas informativas y los resúmenes de los capítulos anteriores.</p>
+
+¡Buena suerte!
